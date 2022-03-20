@@ -10,7 +10,7 @@
                         <!--        You can switch " data-color="primary" "  with one of the next bright colors: "green", "orange", "red", "blue"       -->
                         <div class="card-header text-center">
                             <h3 class="card-title">
-                                Pendaftarana Mitra Otewee
+                                Pendaftaran Mitra Otewee
                             </h3>
                             <h5 class="card-description">Harap mengisi dengan data lengkap yang benar.</h5>
                         </div>
@@ -47,7 +47,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">face</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -59,7 +59,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">face</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -75,7 +75,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">record_voice_over</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -87,7 +87,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">face</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -98,7 +98,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">face</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -109,7 +109,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">email</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -120,7 +120,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">face</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -134,7 +134,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">face</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -146,7 +146,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">face</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -158,7 +158,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">face</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -170,7 +170,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">face</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -181,7 +181,7 @@
                                                     <div class="input-group form-control-lg">
                                                         <div class="input-group-prepend">
                                                             <span class="input-group-text">
-                                                                <i class="material-icons">face</i>
+                                                                <i class="material-icons">edit</i>
                                                             </span>
                                                         </div>
                                                         <div class="form-group">
@@ -213,7 +213,7 @@
                                                             <div class="input-group form-control-lg">
                                                                 <div class="input-group-prepend">
                                                                     <span class="input-group-text">
-                                                                        <i class="material-icons">face</i>
+                                                                        <i class="material-icons">edit</i>
                                                                     </span>
                                                                 </div>
                                                                 <div class="form-group">
@@ -240,7 +240,7 @@
                                                             <div class="input-group form-control-lg">
                                                                 <div class="input-group-prepend">
                                                                     <span class="input-group-text">
-                                                                        <i class="material-icons">face</i>
+                                                                        <i class="material-icons">edit</i>
                                                                     </span>
                                                                 </div>
                                                                 <div class="form-group">
@@ -269,7 +269,7 @@
                                                             <div class="input-group form-control-lg">
                                                                 <div class="input-group-prepend">
                                                                     <span class="input-group-text">
-                                                                        <i class="material-icons">face</i>
+                                                                        <i class="material-icons">edit</i>
                                                                     </span>
                                                                 </div>
                                                                 <div class="form-group">
@@ -296,7 +296,7 @@
                                                             <div class="input-group form-control-lg">
                                                                 <div class="input-group-prepend">
                                                                     <span class="input-group-text">
-                                                                        <i class="material-icons">face</i>
+                                                                        <i class="material-icons">edit</i>
                                                                     </span>
                                                                 </div>
                                                                 <div class="form-group">
@@ -307,7 +307,7 @@
                                                             <div class="input-group form-control-lg">
                                                                 <div class="input-group-prepend">
                                                                     <span class="input-group-text">
-                                                                        <i class="material-icons">face</i>
+                                                                        <i class="material-icons">edit</i>
                                                                     </span>
                                                                 </div>
                                                                 <div class="form-group">
@@ -318,7 +318,7 @@
                                                             <div class="input-group form-control-lg">
                                                                 <div class="input-group-prepend">
                                                                     <span class="input-group-text">
-                                                                        <i class="material-icons">face</i>
+                                                                        <i class="material-icons">edit</i>
                                                                     </span>
                                                                 </div>
                                                                 <div class="form-group">

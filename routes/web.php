@@ -20,3 +20,5 @@ Route::get('/', [LoginController::class, 'index']);
 Route::get('/dashboard', [DashboardController::class, 'index']);
 Route::get('/login', [LoginController::class, 'login']);
 Route::get('/mitra-registrasi', [RegistrasiController::class, 'index']);
+Route::get('/detail-mitra-registrasi', [RegistrasiController::class, 'detail']);
+Route::get('/selesai', [LoginController::class, 'selesai']);

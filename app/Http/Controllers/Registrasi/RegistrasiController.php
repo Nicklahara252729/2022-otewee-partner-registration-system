@@ -18,4 +18,8 @@ class RegistrasiController extends Controller
         return view("registrasi.index");
     }
 
+    public function detail(){
+        return view("registrasi.detail");
+    }
+
 }
